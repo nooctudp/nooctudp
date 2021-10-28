@@ -1,16 +1,16 @@
-### Hi there 👋
+# nooctudp
 
-<!--
-**nooctudp/nooctudp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages I Know
 
-Here are some ideas to get you started:
+- JavaScript (Medium)
+- HTML5
+- Python
+- Actually I am learning frontend and backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hobbies
+
+- Make tools
+- Make web's
+- IDK
+
+![3167f64b-fc09-4537-aad7-03a8bed40202](https://user-images.githubusercontent.com/93232360/139165317-05a79922-295d-426c-86ca-da7660a0209d.jpg)
