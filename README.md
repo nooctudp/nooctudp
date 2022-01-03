@@ -2,10 +2,10 @@
 
 # 🥤 Languages I Know
 
-- JavaScript (Medium)
+- JavaScript
 - HTML5
 - Python
-- Actually I am learning frontend and backend
+- CSS
 
 # ⚡ Hobbies
 
